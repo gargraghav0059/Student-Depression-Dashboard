@@ -125,7 +125,7 @@ Shows student counts across different satisfaction levels.
 ## 📂 Repository Structure
 
 ```text
-📁 Student-Well-Being-Analysis
+📁 Student-Depression
 │
 ├── 📄 Depression-Student-Dataset.csv
 ├── 📊 Student Depression Dashboard.twbx
