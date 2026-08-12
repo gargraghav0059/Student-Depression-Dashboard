@@ -102,9 +102,9 @@ Shows student counts across different satisfaction levels.
 
 ## 🧰 Tools Used
 
-**Database:** Microsoft SQL Server
-**Query Language:** SQL
-**Visualization:** Tableau
+**Database:** Microsoft SQL Server, 
+**Query Language:** SQL, 
+**Visualization:** Tableau, 
 **Dataset:** CSV
 
 ---
@@ -140,5 +140,3 @@ Shows student counts across different satisfaction levels.
 The project converts a raw student dataset into an **analysis-ready dataset using SQL Server** and presents the findings through a **Tableau dashboard**, making student-related patterns easier to explore and understand.
 
 ---
-
-### 🗄️ Clean with SQL. Analyze with Queries. Visualize with Tableau. 📊
