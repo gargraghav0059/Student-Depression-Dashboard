@@ -127,9 +127,10 @@ Shows student counts across different satisfaction levels.
 ```text
 📁 Student-Depression
 │
-├── 📄 Depression-Student-Dataset.csv
-├── 📊 Student Depression Dashboard.twbx
-└── 📖 README.md
+├── Depression-Student-Dataset.csv
+├── Student Depression Dashboard.twbx
+└── README.md
+└── dashboard.png
 ```
 
 ---
